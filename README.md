@@ -1,2 +1,2 @@
 # c_practise
-C/C progs
+C/C++ progs
